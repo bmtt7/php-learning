@@ -1,2 +1,5 @@
-# PHP-Examples
-Repositório dedicado para armazenar estudos e exercícios do livro do Rasmus Lerdorf - Programming PHP
+# php-learning
+Repositório dedicado para armazenar estudos e exercícios sobre PHP
+
+## Instalação do XAMPP (Apache + MariaDB + PHP + Perl)
+[https://www.apachefriends.org/pt_br/index.html](https://www.apachefriends.org/pt_br/index.html)
