@@ -11,7 +11,7 @@ class Task {
 	}  
 
 	public function complete(){
-		$this->completed = true;
+		$this->completed  = true;
 	}
 
 	public function isComplete(){
